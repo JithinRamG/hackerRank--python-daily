@@ -56,6 +56,11 @@ All solutions are written in **clean and readable Python**.
 - Add explanations for complex problems
 - Progress to DSA and competitive programming
 
+## 🤝 Connect With Me
+If you're on a similar journey or want to collaborate, connect with me on LinkedIn:
+
+🔗 www.linkedin.com/in/jithin-ram-goddati-61b830375
+
 ---
 
 🔥 **Consistency > Motivation**  
